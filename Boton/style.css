@@ -1,0 +1,18 @@
+
+a {
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 150px 130px;
+    padding: 15px 30px;
+    background-color: #7a36d4;
+    color: aliceblue;
+    text-decoration: none;
+
+  }
+  a:hover {
+   background-color: transparent;
+   border: 2px solid #7a36d4;
+   color: #7a36d4; }
